@@ -3,8 +3,8 @@
 
 ## ⚙️ Installation
 ```shell script
-git clone https://github.com/DustSettled/VeloGauss.git --recursive
-cd VeloGauss
+git clone https://github.com/DustSettled/ViPGaRe.git --recursive
+cd ViPGaRe
 
 ### CUDA 12.4
 conda env create -f env.yml
