@@ -31,5 +31,5 @@ Datasets can be downloaded from HuggingFace:
 
 ## 🔑 Train
 ```
-bash train_eval.sh
+bash train.sh
 ```
